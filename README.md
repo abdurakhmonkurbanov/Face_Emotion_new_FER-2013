@@ -1,2 +1,3 @@
 # Face_Emotion_new_FER-2013
 maqola uchun
+In this study, the effectiveness of implementing the task of emotional state recognition using advanced convolutional neural networks is studied. In particular, the results of the popular pre-trained architectures ResNet-50, VGGNet-16, DenseNet-121 and EfficientNet-B0 on facial expression recognition are analyzed. The study used an improved and augmented version of the FER-2013 dataset. During data processing, imbalances between facial expressions, low-quality images and incorrectly labeled images were detected and corrected. In addition, data augmentation techniques were used to reduce the problem of overfitting. The model results were evaluated based on criteria such as accuracy and loss function.
